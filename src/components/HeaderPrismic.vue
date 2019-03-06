@@ -63,7 +63,8 @@ export default {
   font-weight: 900;
 }
 .site-header nav {
-  float: right;
+  margin: auto;
+  width: 70%;
 }
 .site-header nav ul {
   margin: 0;
