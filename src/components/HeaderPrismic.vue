@@ -40,6 +40,7 @@ export default {
 .site-header {
   height: 30px;
   padding: 20px 0;
+  margin: 0 auto;
 }
 .site-header,
 .site-header a {

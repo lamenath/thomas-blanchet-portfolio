@@ -125,6 +125,7 @@ export default {
   color: #ffffff;
   line-height: 1.75;
   text-align: center;
+  height: 100vh;
 }
 .banner-content {
   text-align: center;
