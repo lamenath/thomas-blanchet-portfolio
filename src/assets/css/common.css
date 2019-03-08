@@ -12,6 +12,7 @@
  * Globals
  */
 @import url('https://fonts.googleapis.com/css?family=Special+Elite');
+@import url('https://fonts.googleapis.com/css?family=Sacramento');
 
 body {
   padding: 20px;
@@ -34,10 +35,10 @@ p a {
   text-decoration: underline;
 }
 h2, h3, h4, h5, h6 {
-  font-family: 'Special Elite', cursive;
+  font-family: 'Sacramento', cursive;
 }
 h1 {
-  font-family: ‘Lora’, Serif; 
+  font-family: 'Sacramento', cursive;
   font-size: 42px; 
   font-weight: normal; 
   color: #484D52; 
