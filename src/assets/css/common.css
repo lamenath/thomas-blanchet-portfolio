@@ -11,6 +11,8 @@
 /*
  * Globals
  */
+@import url('https://fonts.googleapis.com/css?family=Special+Elite');
+
 body {
   padding: 20px;
   color: #72767b;
@@ -61,6 +63,7 @@ h3, h3 a {
 }
 p, pre, ul, ol {
   margin-bottom: 2rem;
+  font-family: 'Special Elite', cursive;
 }
 ul {
   padding-left: 35px;
