@@ -41,6 +41,7 @@
         </template>
       </section>
     </div>
+    <header-prismic/>
   </section>
 </template>
 

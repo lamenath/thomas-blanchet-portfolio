@@ -10,3 +10,11 @@ export default {
   name: 'image-caption-slice'
 }
 </script>
+<style scoped>
+img {
+	transition: transform .2s;
+}
+img:hover {
+  transform: scale(1.1);
+}
+</style>
